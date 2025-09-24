@@ -36,7 +36,11 @@ createPlatform(200, 700, 100, 5, "blue")
 createPlatform(400, 600, 100, 5, "hotpink")
 createPlatform(200, 500, 100, 5, "crimson")
  createPlatform(400, 400, 100, 5, "violet") // TODO 3 - Create Collectables
+//createCollectable("type", xPos, yPos, gravity?, bounce? Between 0-1, minX = null, maxX = null, speed = 1)
 
+//"type" can be 6 things... database diamond grace kennedi max steve
+
+createCollectable("database", 400, 300) //Sits Still
 
 
     
